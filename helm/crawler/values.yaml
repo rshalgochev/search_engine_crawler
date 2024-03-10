@@ -4,8 +4,8 @@ service:
   externalPort: 8000
 
 image:
-  repository: cr.yandex/crpjtcb32doojdo61rfo/crawler
-  tag: "1.0"
+  repository:
+  tag:
 
 databaseHost:
 databasePort:
