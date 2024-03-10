@@ -1,0 +1,7 @@
+name: crawler
+version: 1.0.0
+description: OTUS crawler app
+maintainer:
+  - name: Roman Shalgochev
+    email: rshalgochev@gmail.com
+appVersion: 1.0
